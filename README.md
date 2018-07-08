@@ -1,6 +1,7 @@
 # US Bike Share Analysis
 Udacity Data Analytics Nanodegree December 2017 - May 2018 
 Project 2: US Bike Share Analysis using Python
+
 [Click here to preview](https://cdn.rawgit.com/latinacode/Bike-Share-Analysis/0d6e52bf/Bike_Share_Analysis.html)
 
 # Project Overview
